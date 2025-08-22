@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+frontend/node_modules/
+hardhat-part/node_modules/
+
+# hardhat build
+artifacts/
+cache/
+
+# environment
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
